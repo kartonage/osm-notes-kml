@@ -119,17 +119,11 @@ function showPosition(position) {
     download them as KML. Such a download might be useful for various things,
     but mostly the idea is to easily load notes into MAPS.ME</p>
 
-    <p>Don't have MAPS.ME? Install it
-    <a href="https://itunes.apple.com/app/id510623322">for iPhone</a>
-    or
-    <a href="https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro">for Android</a>
-    and get it set up showing maps before proceeding.</p>
 
     <input id='proceedbtn' type="button" value="Pick an area" onclick="init();">
 
     <p>
-    <a href="https://harrywood.co.uk/blog/2017/03/12/notes-in-maps-me/">Blog post</a> |
-    <a href="https://github.com/harry-wood/osm-notes-kml">Code on github</a>
+
     </p>
   </div>
   <div id="map">
